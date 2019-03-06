@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Movement_type_1 : MonoBehaviour
 {
+    public float speed;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,28 +20,10 @@ public class Movement_type_1 : MonoBehaviour
 
     void Move()
     {
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            transform.Translate(Vector2.right * 4f * Time.deltaTime);
-            transform.eulerAngles = new Vector3(0, 0, 0);
-        }
-
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            transform.Translate(Vector2.right * 4f * Time.deltaTime);
-            transform.eulerAngles = new Vector3(0, 0, 180);
-        }
-
-        if (Input.GetKey(KeyCode.UpArrow))
-        {
-            transform.Translate(Vector2.right * 4f * Time.deltaTime);
-            transform.eulerAngles = new Vector3(0, 0, 90);
-        }
-
-        if (Input.GetKey(KeyCode.DownArrow))
-        {
-            transform.Translate(Vector2.right * 4f * Time.deltaTime);
-            transform.eulerAngles = new Vector3(0, 0, -90);
-        }
+        float horizontal_mvt = Input.GetAxis("Horizontal");
+        float vertical_mvt = Input.GetAxis("Vertical");
+        
+        transform.Translate((Vector2.right * horizontal_mvt + Vector2.up * vertical_mvt) * speed * Time.deltaTime);
+            
     }
 }
