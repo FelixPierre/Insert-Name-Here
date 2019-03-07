@@ -13,7 +13,7 @@ public class Movement_type_1 : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         Move();
     }
