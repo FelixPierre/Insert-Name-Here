@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movement_type_2 : MonoBehaviour
 {
-    private float norm = 0.5f; 
+    private float norm = 0.32f; 
 
     // Start is called before the first frame update
     void Start()
@@ -13,35 +13,32 @@ public class Movement_type_2 : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
-       
-        Move();
-        
-        
+        Move();    
     }
 
     void Move()
     {
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            transform.Translate(Vector2.right * norm);
-            transform.eulerAngles = new Vector3(0, 0, 0);
+            GetComponent<Rigidbody2D>().MovePosition(transform.position + Vector3.right * norm);
+            //transform.Translate(Vector2.right * norm);
         }
         else if (Input.GetKey(KeyCode.LeftArrow))
         {
-            transform.Translate(Vector2.right * norm);
-            transform.eulerAngles = new Vector3(0, 0, 180);
+            GetComponent<Rigidbody2D>().MovePosition(transform.position + Vector3.left * norm);
+            //transform.Translate(Vector2.left * norm);
         }
         else if (Input.GetKey(KeyCode.UpArrow))
         {
-            transform.Translate(Vector2.right * norm);
-            transform.eulerAngles = new Vector3(0, 0, 90);
+            GetComponent<Rigidbody2D>().MovePosition(transform.position + Vector3.up * norm);
+            //transform.Translate(Vector2.up * norm);
         }
         else if (Input.GetKey(KeyCode.DownArrow))
         {
-            transform.Translate(Vector2.right * norm);
-            transform.eulerAngles = new Vector3(0, 0, -90);
+            GetComponent<Rigidbody2D>().MovePosition(transform.position + Vector3.down * norm);
+            //transform.Translate(Vector2.down * norm);
         }
     }
 }
