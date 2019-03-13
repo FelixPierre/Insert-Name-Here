@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Movement_type_1 : MonoBehaviour
 {
-    public float speed;
+    private float speed = 0.1f;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +16,14 @@ public class Movement_type_1 : MonoBehaviour
     void FixedUpdate()
     {
         Move();
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            speed = 0.2f;
+        }
+        else
+        {
+            speed = 0.1f;
+        }
     }
 
     void Move()
