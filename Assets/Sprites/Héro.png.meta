@@ -1,111 +1,103 @@
 fileFormatVersion: 2
-guid: c90e686336598434e8dc552bbfc7ac84
+guid: 40e4741b7a6cb70448da503c4451f3fc
 TextureImporter:
   fileIDToRecycleName:
-    21300000: tuto-slick2d-012-tuiles-mountains_0
-    21300002: tuto-slick2d-012-tuiles-mountains_1
-    21300004: tuto-slick2d-012-tuiles-mountains_2
-    21300006: tuto-slick2d-012-tuiles-mountains_3
-    21300008: tuto-slick2d-012-tuiles-mountains_4
-    21300010: tuto-slick2d-012-tuiles-mountains_5
-    21300012: tuto-slick2d-012-tuiles-mountains_6
-    21300014: tuto-slick2d-012-tuiles-mountains_7
-    21300016: tuto-slick2d-012-tuiles-mountains_8
-    21300018: tuto-slick2d-012-tuiles-mountains_9
-    21300020: tuto-slick2d-012-tuiles-mountains_10
-    21300022: tuto-slick2d-012-tuiles-mountains_11
-    21300024: tuto-slick2d-012-tuiles-mountains_12
-    21300026: tuto-slick2d-012-tuiles-mountains_13
-    21300028: tuto-slick2d-012-tuiles-mountains_14
-    21300030: tuto-slick2d-012-tuiles-mountains_15
-    21300032: tuto-slick2d-012-tuiles-mountains_16
-    21300034: tuto-slick2d-012-tuiles-mountains_17
-    21300036: tuto-slick2d-012-tuiles-mountains_18
-    21300038: tuto-slick2d-012-tuiles-mountains_19
-    21300040: tuto-slick2d-012-tuiles-mountains_20
-    21300042: tuto-slick2d-012-tuiles-mountains_21
-    21300044: tuto-slick2d-012-tuiles-mountains_22
-    21300046: tuto-slick2d-012-tuiles-mountains_23
-    21300048: tuto-slick2d-012-tuiles-mountains_24
-    21300050: tuto-slick2d-012-tuiles-mountains_25
-    21300052: tuto-slick2d-012-tuiles-mountains_26
-    21300054: tuto-slick2d-012-tuiles-mountains_27
-    21300056: tuto-slick2d-012-tuiles-mountains_28
-    21300058: tuto-slick2d-012-tuiles-mountains_29
-    21300060: tuto-slick2d-012-tuiles-mountains_30
-    21300062: tuto-slick2d-012-tuiles-mountains_31
-    21300064: tuto-slick2d-012-tuiles-mountains_32
-    21300066: tuto-slick2d-012-tuiles-mountains_33
-    21300068: tuto-slick2d-012-tuiles-mountains_34
-    21300070: tuto-slick2d-012-tuiles-mountains_35
-    21300072: tuto-slick2d-012-tuiles-mountains_36
-    21300074: tuto-slick2d-012-tuiles-mountains_37
-    21300076: tuto-slick2d-012-tuiles-mountains_38
-    21300078: tuto-slick2d-012-tuiles-mountains_39
-    21300080: tuto-slick2d-012-tuiles-mountains_40
-    21300082: tuto-slick2d-012-tuiles-mountains_41
-    21300084: tuto-slick2d-012-tuiles-mountains_42
-    21300086: tuto-slick2d-012-tuiles-mountains_43
-    21300088: tuto-slick2d-012-tuiles-mountains_44
-    21300090: tuto-slick2d-012-tuiles-mountains_45
-    21300092: tuto-slick2d-012-tuiles-mountains_46
-    21300094: tuto-slick2d-012-tuiles-mountains_47
-    21300096: tuto-slick2d-012-tuiles-mountains_48
-    21300098: tuto-slick2d-012-tuiles-mountains_49
-    21300100: tuto-slick2d-012-tuiles-mountains_50
-    21300102: tuto-slick2d-012-tuiles-mountains_51
-    21300104: tuto-slick2d-012-tuiles-mountains_52
-    21300106: tuto-slick2d-012-tuiles-mountains_53
-    21300108: tuto-slick2d-012-tuiles-mountains_54
-    21300110: tuto-slick2d-012-tuiles-mountains_55
-    21300112: tuto-slick2d-012-tuiles-mountains_56
-    21300114: tuto-slick2d-012-tuiles-mountains_57
-    21300116: tuto-slick2d-012-tuiles-mountains_58
-    21300118: tuto-slick2d-012-tuiles-mountains_59
-    21300120: tuto-slick2d-012-tuiles-mountains_60
-    21300122: tuto-slick2d-012-tuiles-mountains_61
-    21300124: tuto-slick2d-012-tuiles-mountains_62
-    21300126: tuto-slick2d-012-tuiles-mountains_63
-    21300128: tuto-slick2d-012-tuiles-mountains_64
-    21300130: tuto-slick2d-012-tuiles-mountains_65
-    21300132: tuto-slick2d-012-tuiles-mountains_66
-    21300134: tuto-slick2d-012-tuiles-mountains_67
-    21300136: tuto-slick2d-012-tuiles-mountains_68
-    21300138: tuto-slick2d-012-tuiles-mountains_69
-    21300140: tuto-slick2d-012-tuiles-mountains_70
-    21300142: tuto-slick2d-012-tuiles-mountains_71
-    21300144: tuto-slick2d-012-tuiles-mountains_72
-    21300146: tuto-slick2d-012-tuiles-mountains_73
-    21300148: tuto-slick2d-012-tuiles-mountains_74
-    21300150: tuto-slick2d-012-tuiles-mountains_75
-    21300152: tuto-slick2d-012-tuiles-mountains_76
-    21300154: tuto-slick2d-012-tuiles-mountains_77
-    21300156: tuto-slick2d-012-tuiles-mountains_78
-    21300158: tuto-slick2d-012-tuiles-mountains_79
-    21300160: tuto-slick2d-012-tuiles-mountains_80
-    21300162: tuto-slick2d-012-tuiles-mountains_81
-    21300164: tuto-slick2d-012-tuiles-mountains_82
-    21300166: tuto-slick2d-012-tuiles-mountains_83
-    21300168: tuto-slick2d-012-tuiles-mountains_84
-    21300170: tuto-slick2d-012-tuiles-mountains_85
-    21300172: tuto-slick2d-012-tuiles-mountains_86
-    21300174: tuto-slick2d-012-tuiles-mountains_87
-    21300176: tuto-slick2d-012-tuiles-mountains_88
-    21300178: tuto-slick2d-012-tuiles-mountains_89
-    21300180: tuto-slick2d-012-tuiles-mountains_90
-    21300182: tuto-slick2d-012-tuiles-mountains_91
-    21300184: tuto-slick2d-012-tuiles-mountains_92
-    21300186: tuto-slick2d-012-tuiles-mountains_93
-    21300188: tuto-slick2d-012-tuiles-mountains_94
-    21300190: tuto-slick2d-012-tuiles-mountains_95
-    21300192: tuto-slick2d-012-tuiles-mountains_96
-    21300194: tuto-slick2d-012-tuiles-mountains_97
-    21300196: tuto-slick2d-012-tuiles-mountains_98
-    21300198: tuto-slick2d-012-tuiles-mountains_99
-    21300200: tuto-slick2d-012-tuiles-mountains_100
-    21300202: tuto-slick2d-012-tuiles-mountains_101
-    21300204: tuto-slick2d-012-tuiles-mountains_102
-    21300206: tuto-slick2d-012-tuiles-mountains_103
+    21300000: "H\xE9ro_0"
+    21300002: "H\xE9ro_1"
+    21300004: "H\xE9ro_2"
+    21300006: "H\xE9ro_3"
+    21300008: "H\xE9ro_4"
+    21300010: "H\xE9ro_5"
+    21300012: "H\xE9ro_6"
+    21300014: "H\xE9ro_7"
+    21300016: "H\xE9ro_8"
+    21300018: "H\xE9ro_9"
+    21300020: "H\xE9ro_10"
+    21300022: "H\xE9ro_11"
+    21300024: "H\xE9ro_12"
+    21300026: "H\xE9ro_13"
+    21300028: "H\xE9ro_14"
+    21300030: "H\xE9ro_15"
+    21300032: "H\xE9ro_16"
+    21300034: "H\xE9ro_17"
+    21300036: "H\xE9ro_18"
+    21300038: "H\xE9ro_19"
+    21300040: "H\xE9ro_20"
+    21300042: "H\xE9ro_21"
+    21300044: "H\xE9ro_22"
+    21300046: "H\xE9ro_23"
+    21300048: "H\xE9ro_24"
+    21300050: "H\xE9ro_25"
+    21300052: "H\xE9ro_26"
+    21300054: "H\xE9ro_27"
+    21300056: "H\xE9ro_28"
+    21300058: "H\xE9ro_29"
+    21300060: "H\xE9ro_30"
+    21300062: "H\xE9ro_31"
+    21300064: "H\xE9ro_32"
+    21300066: "H\xE9ro_33"
+    21300068: "H\xE9ro_34"
+    21300070: "H\xE9ro_35"
+    21300072: "H\xE9ro_36"
+    21300074: "H\xE9ro_37"
+    21300076: "H\xE9ro_38"
+    21300078: "H\xE9ro_39"
+    21300080: "H\xE9ro_40"
+    21300082: "H\xE9ro_41"
+    21300084: "H\xE9ro_42"
+    21300086: "H\xE9ro_43"
+    21300088: "H\xE9ro_44"
+    21300090: "H\xE9ro_45"
+    21300092: "H\xE9ro_46"
+    21300094: "H\xE9ro_47"
+    21300096: "H\xE9ro_48"
+    21300098: "H\xE9ro_49"
+    21300100: "H\xE9ro_50"
+    21300102: "H\xE9ro_51"
+    21300104: "H\xE9ro_52"
+    21300106: "H\xE9ro_53"
+    21300108: "H\xE9ro_54"
+    21300110: "H\xE9ro_55"
+    21300112: "H\xE9ro_56"
+    21300114: "H\xE9ro_57"
+    21300116: "H\xE9ro_58"
+    21300118: "H\xE9ro_59"
+    21300120: "H\xE9ro_60"
+    21300122: "H\xE9ro_61"
+    21300124: "H\xE9ro_62"
+    21300126: "H\xE9ro_63"
+    21300128: "H\xE9ro_64"
+    21300130: "H\xE9ro_65"
+    21300132: "H\xE9ro_66"
+    21300134: "H\xE9ro_67"
+    21300136: "H\xE9ro_68"
+    21300138: "H\xE9ro_69"
+    21300140: "H\xE9ro_70"
+    21300142: "H\xE9ro_71"
+    21300144: "H\xE9ro_72"
+    21300146: "H\xE9ro_73"
+    21300148: "H\xE9ro_74"
+    21300150: "H\xE9ro_75"
+    21300152: "H\xE9ro_76"
+    21300154: "H\xE9ro_77"
+    21300156: "H\xE9ro_78"
+    21300158: "H\xE9ro_79"
+    21300160: "H\xE9ro_80"
+    21300162: "H\xE9ro_81"
+    21300164: "H\xE9ro_82"
+    21300166: "H\xE9ro_83"
+    21300168: "H\xE9ro_84"
+    21300170: "H\xE9ro_85"
+    21300172: "H\xE9ro_86"
+    21300174: "H\xE9ro_87"
+    21300176: "H\xE9ro_88"
+    21300178: "H\xE9ro_89"
+    21300180: "H\xE9ro_90"
+    21300182: "H\xE9ro_91"
+    21300184: "H\xE9ro_92"
+    21300186: "H\xE9ro_93"
+    21300188: "H\xE9ro_94"
+    21300190: "H\xE9ro_95"
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -188,247 +180,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a191d32b400a9a4f855d5169eab5aed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc6f5a0b0c23cb6478575d1dc9daaf7d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b591ac4dc3fe44489b013e8ba616206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a2061b14ed1c4140b5a6522b88818fa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_4
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79ef174fc9b046c43a5032041b71a2b0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_5
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8b8498ceadfb9041932c28980075e0e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_6
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfcca0cd730e9d84d90117a81291812d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_7
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17266e3ea86506340a9818d6fc2e93be
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_8
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e54f02ac52526a74996ed35772c63151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_9
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58be7a49491c04a4f8692dea6c4f6e38
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_10
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b34f4861151b5d47a5a47d328bba60c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_11
-      rect:
-        serializedVersion: 2
-        x: 352
-        y: 256
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa7c02c4e168301439bdbcf6de605079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_12
+      name: "H\xE9ro_0"
       rect:
         serializedVersion: 2
         x: 0
@@ -442,13 +194,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 475c50fe547443f4c854d74117b779de
+      spriteID: 0455866b74a687a4fa7f7fc0fcb983ab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_13
+      name: "H\xE9ro_1"
       rect:
         serializedVersion: 2
         x: 32
@@ -462,13 +214,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a958520aadbc9d46a48a6943e5dfbec
+      spriteID: 39aa6a8d426111f41b464158cf71ac6c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_14
+      name: "H\xE9ro_2"
       rect:
         serializedVersion: 2
         x: 64
@@ -482,13 +234,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 177e1876341386e458d310fa2fcb6348
+      spriteID: 7ef41c28bc350df4f8ac47aaae848010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_15
+      name: "H\xE9ro_3"
       rect:
         serializedVersion: 2
         x: 96
@@ -502,13 +254,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebf81c5887fee4044bc18a8783162ed7
+      spriteID: cb76359e24cf5f34bafe85a11fdc73d7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_16
+      name: "H\xE9ro_4"
       rect:
         serializedVersion: 2
         x: 128
@@ -522,13 +274,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f60cdf3d89db3f4b81932558380f17a
+      spriteID: 2a14c9938972bee4782a9dd742f82ca0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_17
+      name: "H\xE9ro_5"
       rect:
         serializedVersion: 2
         x: 160
@@ -542,13 +294,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d871b68e8d2ada945bc2a18b1a3a43fd
+      spriteID: e491679e38e31e7458731680ad1de921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_18
+      name: "H\xE9ro_6"
       rect:
         serializedVersion: 2
         x: 192
@@ -562,13 +314,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d64d75ac0fbe6304a8443c917b448bf6
+      spriteID: d28f8e311bfe4884585ef0c32d1b5cf4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_19
+      name: "H\xE9ro_7"
       rect:
         serializedVersion: 2
         x: 224
@@ -582,13 +334,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a691089e535184095d0de783273a45
+      spriteID: be802a1534d8694499a48a0c1ec39e55
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_20
+      name: "H\xE9ro_8"
       rect:
         serializedVersion: 2
         x: 256
@@ -602,13 +354,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09119fb17bf324c4c85112ab8121f17e
+      spriteID: cb42ceb849687f441a0f33022cb9be53
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_21
+      name: "H\xE9ro_9"
       rect:
         serializedVersion: 2
         x: 288
@@ -622,13 +374,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c15130fb0da727b4f86b9b74f6a1b313
+      spriteID: 2906e12f30892bc408d1e10c1c3abe4c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_22
+      name: "H\xE9ro_10"
       rect:
         serializedVersion: 2
         x: 320
@@ -642,13 +394,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88629b79d8f61d44d87debc9819c27ee
+      spriteID: cb4bba323c6a0da4899475c733be6b54
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_23
+      name: "H\xE9ro_11"
       rect:
         serializedVersion: 2
         x: 352
@@ -662,13 +414,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dcdf8912283acc54abd1327815023390
+      spriteID: 2b07bd4c405b9854dbfb9e4b98593919
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_24
+      name: "H\xE9ro_12"
       rect:
         serializedVersion: 2
         x: 0
@@ -682,13 +434,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5d4bc4e568161445b76fef77f593ae1
+      spriteID: 0fe04ef15c7086543a9dbbf828992102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_25
+      name: "H\xE9ro_13"
       rect:
         serializedVersion: 2
         x: 32
@@ -702,13 +454,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80fd2e76f42752a42af527bcb3f90773
+      spriteID: c482722f21d1cf249a4b95e216db6c58
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_26
+      name: "H\xE9ro_14"
       rect:
         serializedVersion: 2
         x: 64
@@ -722,13 +474,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91b2b613e8f2e284aa65d8554f690054
+      spriteID: e89cb47d5592a7e4d982623aa67c228e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_27
+      name: "H\xE9ro_15"
       rect:
         serializedVersion: 2
         x: 96
@@ -742,13 +494,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52633a9547f4bd9479fa938257d41d74
+      spriteID: e6010affe63f0ac43842bcca58c26dcc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_28
+      name: "H\xE9ro_16"
       rect:
         serializedVersion: 2
         x: 128
@@ -762,13 +514,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e17792178f576d44b7f0b879809a2d6
+      spriteID: c4590598c31fb1e4db9b45200367261f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_29
+      name: "H\xE9ro_17"
       rect:
         serializedVersion: 2
         x: 160
@@ -782,13 +534,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66438f291bbfd3e4b959c9a4343d6eae
+      spriteID: 5c2de8e2139422f419470be80cf254c7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_30
+      name: "H\xE9ro_18"
       rect:
         serializedVersion: 2
         x: 192
@@ -802,13 +554,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4dc8df4e6d68ff54da2f83f8adb6aa57
+      spriteID: 9d1a81fa2ccf47c4996e692e13b6683a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_31
+      name: "H\xE9ro_19"
       rect:
         serializedVersion: 2
         x: 224
@@ -822,13 +574,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d75e0d8bbb42cba4388e6b2b20a0c1e3
+      spriteID: c1cd64bfb1c610a4997ec2ea9290aac6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_32
+      name: "H\xE9ro_20"
       rect:
         serializedVersion: 2
         x: 256
@@ -842,13 +594,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 839826f5d3ed70c4c8c93ad5d07ba5b4
+      spriteID: 268580b743dc3064cab5dcd5707a87bf
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_33
+      name: "H\xE9ro_21"
       rect:
         serializedVersion: 2
         x: 288
@@ -862,13 +614,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce39fda42f3cbee45a36afb6b5863a72
+      spriteID: 8b43d52f96e5b9d4b999a6f49c1e6aa1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_34
+      name: "H\xE9ro_22"
       rect:
         serializedVersion: 2
         x: 320
@@ -882,13 +634,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 381ce6ccc105d244e98f52933ca1bf7a
+      spriteID: 5610b1f02a7b60846ab436ee0e370793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_35
+      name: "H\xE9ro_23"
       rect:
         serializedVersion: 2
         x: 352
@@ -902,13 +654,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efeed1ac37dab824ba36b4e982574953
+      spriteID: 740202b48e0a74e46a4f2e545bb64e26
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_36
+      name: "H\xE9ro_24"
       rect:
         serializedVersion: 2
         x: 0
@@ -922,13 +674,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdbf90bbfad0f574a929e59d720d523f
+      spriteID: f9f5df71b2ee3c94d84bcd2915f877b4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_37
+      name: "H\xE9ro_25"
       rect:
         serializedVersion: 2
         x: 32
@@ -942,13 +694,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba56ba5601bd35b4e84d68de4c403149
+      spriteID: 5299cda233bc7da4986490596985c595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_38
+      name: "H\xE9ro_26"
       rect:
         serializedVersion: 2
         x: 64
@@ -962,13 +714,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ba4b7f572da01343957bd42d7097a37
+      spriteID: fd69b7818b477294ab5f584147ab14eb
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_39
+      name: "H\xE9ro_27"
       rect:
         serializedVersion: 2
         x: 96
@@ -982,13 +734,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 993ee604a7dc1a547a1925ebb9665200
+      spriteID: 872fce68872660141ad3b225287baa39
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_40
+      name: "H\xE9ro_28"
       rect:
         serializedVersion: 2
         x: 128
@@ -1002,13 +754,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d58689324536041a36cdf422fce0da
+      spriteID: a42cba5d903d7df44ae4f011fa68d36e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_41
+      name: "H\xE9ro_29"
       rect:
         serializedVersion: 2
         x: 160
@@ -1022,13 +774,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef4ac034f27ce4e468e872e53412c25b
+      spriteID: ef715fb9e4e1f7e44b63d4592c453d52
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_42
+      name: "H\xE9ro_30"
       rect:
         serializedVersion: 2
         x: 192
@@ -1042,13 +794,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fb4d5032a523394fa308a015f6ec7f4
+      spriteID: c90ac3b22ffeb60408d0c96c177a9461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_43
+      name: "H\xE9ro_31"
       rect:
         serializedVersion: 2
         x: 224
@@ -1062,13 +814,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33564650c75a6074caf6a608b0bacd2d
+      spriteID: 60a9ba2a572d8984a810082067ec5787
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_44
+      name: "H\xE9ro_32"
       rect:
         serializedVersion: 2
         x: 256
@@ -1082,13 +834,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbc5c63034c09664486c0551ed4a5253
+      spriteID: c3f45dabf1d7aa444bec937461bd909e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_45
+      name: "H\xE9ro_33"
       rect:
         serializedVersion: 2
         x: 288
@@ -1102,13 +854,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b8abf885df3e25468cdb7d17f2dcf7a
+      spriteID: 8019260c5a69a4a49b0722492e971ee7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_46
+      name: "H\xE9ro_34"
       rect:
         serializedVersion: 2
         x: 320
@@ -1122,13 +874,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 485890be7af20364584c1e7cce7e2614
+      spriteID: 73a542942d992b342be33ecef367ee13
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_47
+      name: "H\xE9ro_35"
       rect:
         serializedVersion: 2
         x: 352
@@ -1142,13 +894,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f72e7aafc68b53741a144d788e0e090a
+      spriteID: 7d1ed28fa8f04cf48b252739febaac46
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_48
+      name: "H\xE9ro_36"
       rect:
         serializedVersion: 2
         x: 0
@@ -1162,13 +914,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3d67b354bfcb9c43a1a9bde26504324
+      spriteID: 1939bbbd2cb9b1648820d7f8bc077756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_49
+      name: "H\xE9ro_37"
       rect:
         serializedVersion: 2
         x: 32
@@ -1182,13 +934,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a05b2cd47576d24e99920011639a203
+      spriteID: 226e9d5a60a508745a90ba74eee7ee75
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_50
+      name: "H\xE9ro_38"
       rect:
         serializedVersion: 2
         x: 64
@@ -1202,13 +954,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cdd85fe51b136d4bad17c26bdc4ba5c
+      spriteID: 25bcb4579e99967499bfad34a0f71d68
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_51
+      name: "H\xE9ro_39"
       rect:
         serializedVersion: 2
         x: 96
@@ -1222,13 +974,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b49c16726b860f429ab5a525d1a2c07
+      spriteID: 0dfef861234164744885a0d0e7dfade8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_52
+      name: "H\xE9ro_40"
       rect:
         serializedVersion: 2
         x: 128
@@ -1242,13 +994,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37d0137b811ff2342abc1d9af6c10449
+      spriteID: 4db3dcf37de00004984d50b57ac462e3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_53
+      name: "H\xE9ro_41"
       rect:
         serializedVersion: 2
         x: 160
@@ -1262,13 +1014,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81b37cfffddb66c4390d97ff54de8d71
+      spriteID: 4ef1715b626dc9c4f9d9988d967a7ec7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_54
+      name: "H\xE9ro_42"
       rect:
         serializedVersion: 2
         x: 192
@@ -1282,13 +1034,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2434cd15c1f5ee4ab92a2c05db61d71
+      spriteID: 37d30c14091dd754389723a75fb1ce1b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_55
+      name: "H\xE9ro_43"
       rect:
         serializedVersion: 2
         x: 224
@@ -1302,13 +1054,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71d565640f170fe408eac528df5e0bd7
+      spriteID: ea9e1d9baa520e548b5620590ec8e803
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_56
+      name: "H\xE9ro_44"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de44f7729667ce4198cc3943f3fe8c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "H\xE9ro_45"
       rect:
         serializedVersion: 2
         x: 288
@@ -1322,13 +1094,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d65f91c3663d7748a3c902e405904bc
+      spriteID: b567005773b97a740b0ff86c362d7bca
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_57
+      name: "H\xE9ro_46"
       rect:
         serializedVersion: 2
         x: 320
@@ -1342,13 +1114,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b883102d8123b7458edc1d31dbeb128
+      spriteID: 3f2fbc5975451564a8cf0de27d249191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_58
+      name: "H\xE9ro_47"
       rect:
         serializedVersion: 2
         x: 352
@@ -1362,13 +1134,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e5e2976ecc145047a51c6d6ada5754d
+      spriteID: 8921446947ef67c48970563b6c80658d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_59
+      name: "H\xE9ro_48"
       rect:
         serializedVersion: 2
         x: 0
@@ -1382,13 +1154,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32cbcd0c66bc1c846a417426b3990ebf
+      spriteID: aac29314a21f7e043b62c170b98318b1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_60
+      name: "H\xE9ro_49"
       rect:
         serializedVersion: 2
         x: 32
@@ -1402,13 +1174,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bb2fc80b59d18341951d0803a629445
+      spriteID: da84d6a83e83499489ebe98a78bfc645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_61
+      name: "H\xE9ro_50"
       rect:
         serializedVersion: 2
         x: 64
@@ -1422,13 +1194,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4f5168091980b44daf679edd659cc6c
+      spriteID: af2a2d73ce5f7cf4d8b05270204f9937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_62
+      name: "H\xE9ro_51"
       rect:
         serializedVersion: 2
         x: 96
@@ -1442,13 +1214,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a89faf0f63ee0a4aabc159c901ad88f
+      spriteID: 80ec2c445af71dd478e167c2144415ea
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_63
+      name: "H\xE9ro_52"
       rect:
         serializedVersion: 2
         x: 128
@@ -1462,13 +1234,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 497a20a8d14f78b4cbbaf7a5378caf5c
+      spriteID: 0f218e90d2d43d246998e1d35d86c666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_64
+      name: "H\xE9ro_53"
       rect:
         serializedVersion: 2
         x: 160
@@ -1482,13 +1254,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66f2b9d9b1caf5644bd08f772e52e74f
+      spriteID: ed48bb644fbb6fb4bbb9a86632849383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_65
+      name: "H\xE9ro_54"
       rect:
         serializedVersion: 2
         x: 192
@@ -1502,13 +1274,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33c0f38997f4e20449176b7ef6d65f55
+      spriteID: 7746972599f6f5a44b013867f0a942d3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_66
+      name: "H\xE9ro_55"
       rect:
         serializedVersion: 2
         x: 224
@@ -1522,13 +1294,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da17e37280072bf468adf61c5e633715
+      spriteID: 97b5ca834ddce2b4ea61b5a60e28d726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_67
+      name: "H\xE9ro_56"
       rect:
         serializedVersion: 2
         x: 256
@@ -1542,13 +1314,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1b0860855e1fdc46bd475b654f4902c
+      spriteID: f94df901d60690448a50791ea02ef44d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_68
+      name: "H\xE9ro_57"
       rect:
         serializedVersion: 2
         x: 288
@@ -1562,13 +1334,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 910ad9e398d83314c824260e12913107
+      spriteID: 3bcf8145c25f6cd41a26b423c85765f5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_69
+      name: "H\xE9ro_58"
       rect:
         serializedVersion: 2
         x: 320
@@ -1582,13 +1354,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48795fcb9a59b4e489cc8d7680836a90
+      spriteID: 33187d6899daf194494d978ab7305747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_70
+      name: "H\xE9ro_59"
       rect:
         serializedVersion: 2
         x: 352
@@ -1602,13 +1374,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24d950d7339787d41ab6065a25a6b3bf
+      spriteID: 120c3df1654c10c4b851489cd94839fc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_71
+      name: "H\xE9ro_60"
       rect:
         serializedVersion: 2
         x: 0
@@ -1622,13 +1394,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f2234f309462f548bd1fa90bdf910ba
+      spriteID: 3d4875fb384f7804297cba34e2b97db4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_72
+      name: "H\xE9ro_61"
       rect:
         serializedVersion: 2
         x: 32
@@ -1642,13 +1414,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df20b411bae186f4186360a1b1734892
+      spriteID: 947d8cbf234c718429cc21b74704b8e7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_73
+      name: "H\xE9ro_62"
       rect:
         serializedVersion: 2
         x: 64
@@ -1662,13 +1434,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4063bfdee49221846ac8f459e978a6f4
+      spriteID: 9d7cdc59db5088d4281925b84843f917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_74
+      name: "H\xE9ro_63"
       rect:
         serializedVersion: 2
         x: 96
@@ -1682,13 +1454,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8641a6bd233871743952b2f4f3bcff4e
+      spriteID: 556e6b0d3cc722245973f039c07c98d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_75
+      name: "H\xE9ro_64"
       rect:
         serializedVersion: 2
         x: 128
@@ -1702,13 +1474,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bdfea6570fa096949a9c02315cce48b5
+      spriteID: 9bed3594f7108d64f8762cf598666d02
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_76
+      name: "H\xE9ro_65"
       rect:
         serializedVersion: 2
         x: 160
@@ -1722,13 +1494,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b36d26111d24b34abe8bc5b7c3eaedc
+      spriteID: b66bcf2b82cd0814eb5bf7be326b69b4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_77
+      name: "H\xE9ro_66"
       rect:
         serializedVersion: 2
         x: 192
@@ -1742,13 +1514,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b52c3de50937d49807040ed446de4b
+      spriteID: 231e4d51a5c4b6846a7a14d596e34ad8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_78
+      name: "H\xE9ro_67"
       rect:
         serializedVersion: 2
         x: 224
@@ -1762,13 +1534,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff4fa54f5f4d25d4d923176a9138cbd2
+      spriteID: 331e11558b14f1b4190428eef7c226b3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_79
+      name: "H\xE9ro_68"
       rect:
         serializedVersion: 2
         x: 256
@@ -1782,13 +1554,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f3629ab351580346a82e6499277d799
+      spriteID: 833dbb6bfb3ffef48b08d273821a6b89
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_80
+      name: "H\xE9ro_69"
       rect:
         serializedVersion: 2
         x: 288
@@ -1802,13 +1574,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aceab2e8517d75a41ad35e53ae07b445
+      spriteID: b968b580dc6c4a24093c536049bae16a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_81
+      name: "H\xE9ro_70"
       rect:
         serializedVersion: 2
         x: 320
@@ -1822,13 +1594,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92f9e5e07e814d2468b87d06691a1a05
+      spriteID: 208cd44e6da7a3c43a14304e117869f8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_82
+      name: "H\xE9ro_71"
       rect:
         serializedVersion: 2
         x: 352
@@ -1842,13 +1614,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a9eb743788d7584e88fc918adc03720
+      spriteID: eb781ca818634734cad937e02b41075d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_83
+      name: "H\xE9ro_72"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec2f695ce8181c49a6cdaf92c585fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "H\xE9ro_73"
       rect:
         serializedVersion: 2
         x: 32
@@ -1862,13 +1654,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2c824cc7283d4b40b829058951c8132
+      spriteID: 469c04257a92ca346b5eb9adc702692b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_84
+      name: "H\xE9ro_74"
       rect:
         serializedVersion: 2
         x: 64
@@ -1882,13 +1674,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7802e61bb94588a4286fd501e6db8d22
+      spriteID: 379877a0db8b5eb41a8b697cc0128999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_85
+      name: "H\xE9ro_75"
       rect:
         serializedVersion: 2
         x: 96
@@ -1902,13 +1694,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e791296aa2fef1b48bc20189f920eb2a
+      spriteID: ba2d521247cb5f041bb748bc7aa302a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_86
+      name: "H\xE9ro_76"
       rect:
         serializedVersion: 2
         x: 128
@@ -1922,13 +1714,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5838bf509c1374e4c9b4980b99fe0baf
+      spriteID: 5c9269546760fd8409e92b68e2d641b2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_87
+      name: "H\xE9ro_77"
       rect:
         serializedVersion: 2
         x: 160
@@ -1942,13 +1734,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 273fe2b81c78cde4c806bf08e5f03950
+      spriteID: 7de60299c1a6ef1479dde989c59df89f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_88
+      name: "H\xE9ro_78"
       rect:
         serializedVersion: 2
         x: 192
@@ -1962,13 +1754,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 008c780493176fc4bbb6df7608a6db71
+      spriteID: 2dba5ccea62ad9f4cbdf7a4caa03d4db
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_89
+      name: "H\xE9ro_79"
       rect:
         serializedVersion: 2
         x: 224
@@ -1982,13 +1774,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a83aefabbdbfe44aa27af149173d057
+      spriteID: 4d2985f00aacd3e4fabea2efe4348598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_90
+      name: "H\xE9ro_80"
       rect:
         serializedVersion: 2
         x: 256
@@ -2002,13 +1794,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3eaca1d3bcc09ea4b957ce3cd5169ee7
+      spriteID: f2dcf0a22ad33be4bb45eb770c7a9e0f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_91
+      name: "H\xE9ro_81"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab81aa2d7659f4c97688759a775215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "H\xE9ro_82"
       rect:
         serializedVersion: 2
         x: 320
@@ -2022,13 +1834,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8817418e99524324eacededf54211e36
+      spriteID: 97b2c52c2e0e68f4aabd67a69655f40a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_92
+      name: "H\xE9ro_83"
       rect:
         serializedVersion: 2
         x: 352
@@ -2042,13 +1854,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe21402624742ba4fa82ca7d9f4ca4a0
+      spriteID: 22c1c060e5846494d93eb458f8617555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_93
+      name: "H\xE9ro_84"
       rect:
         serializedVersion: 2
         x: 0
@@ -2062,13 +1874,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e56d51c73e32b2428e9ed742cc09e7f
+      spriteID: cb4ebd8f9697d4c44bd47fe20a278c8b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_94
+      name: "H\xE9ro_85"
       rect:
         serializedVersion: 2
         x: 32
@@ -2082,13 +1894,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f65802a8b681aa345bd2e0813bfdead2
+      spriteID: e245bc250ab9b304a90afbf2a549bce8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_95
+      name: "H\xE9ro_86"
       rect:
         serializedVersion: 2
         x: 64
@@ -2102,13 +1914,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a3a700da227b07940b05450152886da6
+      spriteID: e1496dc30bc76d64f87dfe4ef4c62b33
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_96
+      name: "H\xE9ro_87"
       rect:
         serializedVersion: 2
         x: 96
@@ -2122,13 +1934,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e527d7c9aa224e04897cde5597c1c201
+      spriteID: 5a1f92fcbb072594cb3d7e6226b2fdb4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_97
+      name: "H\xE9ro_88"
       rect:
         serializedVersion: 2
         x: 128
@@ -2142,13 +1954,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d37c6df207f3f984b802afff36294abb
+      spriteID: 5863f2f76c8efec45978c86c4eb72b30
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_98
+      name: "H\xE9ro_89"
       rect:
         serializedVersion: 2
         x: 160
@@ -2162,13 +1974,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3870943431432c3468b9c4e3580e6762
+      spriteID: 3939718fcfb55154fa56335a3f4c9831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_99
+      name: "H\xE9ro_90"
       rect:
         serializedVersion: 2
         x: 192
@@ -2182,13 +1994,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7640e48346d5cff4bb1e98d252dda7ad
+      spriteID: 445ab907eafa55b4f9f7fcd9ab0aed5b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_100
+      name: "H\xE9ro_91"
       rect:
         serializedVersion: 2
         x: 224
@@ -2202,13 +2014,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80617f15c6086814399af5c7da39f952
+      spriteID: 68e37364b22f4fc498e7f41409954f3b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_101
+      name: "H\xE9ro_92"
       rect:
         serializedVersion: 2
         x: 256
@@ -2222,13 +2034,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 408042e39fc2c284aa0f15db7f80af65
+      spriteID: 432ef9042cfad1f4fb42945d4cef8ec5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_102
+      name: "H\xE9ro_93"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a4eb868be64643bf6ce04df9cfd70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "H\xE9ro_94"
       rect:
         serializedVersion: 2
         x: 320
@@ -2242,13 +2074,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1fb87b034bfdc940a90bf75ee6bc4c4
+      spriteID: b455c6ac4f41c234d87856fa4347d89b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tuto-slick2d-012-tuiles-mountains_103
+      name: "H\xE9ro_95"
       rect:
         serializedVersion: 2
         x: 352
@@ -2262,7 +2094,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07f819d2c1a257948966ba2a0fe90cdc
+      spriteID: e4cd61c90b2f27b42bc4de78730d051d
       vertices: []
       indices: 
       edges: []
@@ -2270,7 +2102,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: f9e8974f5f8806c4bb52808c49acc9bf
+    spriteID: 259d3d1f9f9af9d46a913ed894e51eb5
     vertices: []
     indices: 
     edges: []
