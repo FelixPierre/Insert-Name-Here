@@ -47,8 +47,11 @@ TagManager:
   - name: Wall
     uniqueID: 3809200915
     locked: 0
-  - name: Detail
+  - name: Object
     uniqueID: 3549593251
+    locked: 0
+  - name: Structure
+    uniqueID: 1905896839
     locked: 0
   - name: Player
     uniqueID: 165651139
