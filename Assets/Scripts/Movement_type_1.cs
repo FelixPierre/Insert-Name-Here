@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class Movement_type_1 : MonoBehaviour
 {
-    private float speed = 0.1f;
+    [Range(0, 0.5f)]
+    public float speed;
+
     private Animator animator;
+    private float mvtSpeed;
 
     // Start is called before the first frame update
     void Start()
@@ -19,11 +22,13 @@ public class Movement_type_1 : MonoBehaviour
         Move();
         if (Input.GetKey(KeyCode.LeftShift))
         {
-            speed = 0.2f;
+            mvtSpeed = 2 * speed;
+            animator.speed = 2 * speed * 20;
         }
         else
         {
-            speed = 0.1f;
+            mvtSpeed = speed;
+            animator.speed = speed * 20;
         }
     }
 
@@ -35,6 +40,6 @@ public class Movement_type_1 : MonoBehaviour
         animator.SetFloat("HorizontalSpeed", horizontal_mvt);
         animator.SetFloat("VerticalSpeed", vertical_mvt);
 
-        GetComponent<Rigidbody2D>().MovePosition(transform.position + (Vector3.right * horizontal_mvt + Vector3.up * vertical_mvt) * speed);
+        GetComponent<Rigidbody2D>().MovePosition(transform.position + (Vector3.right * horizontal_mvt + Vector3.up * vertical_mvt) * mvtSpeed);
     }
 }
