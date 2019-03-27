@@ -20,7 +20,7 @@ public class Movement_type_1 : MonoBehaviour
     void FixedUpdate()
     {
         Move();
-        if (Input.GetKey(KeyCode.LeftShift))
+        if (Input.GetAxis("Sprint") > 0)
         {
             mvtSpeed = 2 * speed;
             animator.speed = 2 * speed * 20;
