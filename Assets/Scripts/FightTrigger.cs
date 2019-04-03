@@ -29,7 +29,7 @@ public class FightTrigger : MonoBehaviour
     }
 
     IEnumerator Trigger() {
-        Debug.Log("trigger called");
+        //Debug.Log("trigger called");
         if ((Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0) && Time.timeScale > 0) {
             if (Random.value < fightThreshold) {
                 Debug.Log("Tibilibibilibibilibi... vous entrez en combat");
