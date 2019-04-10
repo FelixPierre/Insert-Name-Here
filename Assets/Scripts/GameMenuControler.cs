@@ -1,10 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameMenuControler : MonoBehaviour
 {
     public GameObject gameMenu;
+    public Button objectsButton;
 
     private bool isOpen = false;
 
@@ -28,6 +30,7 @@ public class GameMenuControler : MonoBehaviour
     {
         Time.timeScale = 0;
         gameMenu.SetActive(true);
+        objectsButton.Select();
         isOpen = true;
     }
 
