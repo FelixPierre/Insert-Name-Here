@@ -15,4 +15,9 @@ public class EntityStats : ScriptableObject
     public int physicalDef;
     public int magicalAtk;
     public int magicalDef;
+
+    public int physicalAtkGain;
+    public int physicalDefGain;
+    public int magicalAtkGain;
+    public int magicalDefGain;
 }
