@@ -8,7 +8,7 @@ public class Entity : MonoBehaviour
 
     public EntityStats baseStats;
 
-    new string name;
+    public new string name { get; private set; }
     int level;
 
     int healthMax;
@@ -26,6 +26,18 @@ public class Entity : MonoBehaviour
     #endregion
 
     #region Properties
+
+    public int HealthMax {
+        get {
+            return healthMax;
+        }
+    }
+
+    public int ManaMax {
+        get {
+            return manaMax;
+        }
+    }
 
     public int Health {
         get {
