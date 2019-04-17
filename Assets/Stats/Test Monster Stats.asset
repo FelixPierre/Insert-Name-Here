@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a2aa87b3246da2448860c463e85637ba, type: 3}
-  m_Name: Hero Stats
+  m_Name: New EntityStats
   m_EditorClassIdentifier: 
-  name: Hero
-  description: the hero
-  health: 100
-  mana: 100
-  physicalAtk: 20
-  physicalDef: 15
-  magicalAtk: 12
-  magicalDef: 17
-  physicalAtkGain: 1
-  physicalDefGain: 1
-  magicalAtkGain: 1
-  magicalDefGain: 1
+  name: 
+  description: 
+  health: 0
+  mana: 0
+  physicalAtk: 0
+  physicalDef: 0
+  magicalAtk: 0
+  magicalDef: 0
+  physicalAtkGain: 0
+  physicalDefGain: 0
+  magicalAtkGain: 0
+  magicalDefGain: 0

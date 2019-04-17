@@ -16,10 +16,10 @@ public class Entity : MonoBehaviour
     int manaMax;
     int mana;
 
-    int physicalAtk;
-    int physicalDef;
-    int magicalAtk;
-    int magicalDef;
+    int physicAtk;
+    int physicDef;
+    int magicAtk;
+    int magicDef;
 
     bool block;
 
@@ -57,6 +57,15 @@ public class Entity : MonoBehaviour
         }
     }
 
+    public int Level {
+        get {
+            return level;
+        }
+        set {
+            LevelUp(value);
+        }
+    }
+
     #endregion
 
     private void Start() {
@@ -64,17 +73,17 @@ public class Entity : MonoBehaviour
         name = baseStats.name;
         healthMax = health = baseStats.health;
         manaMax = mana = baseStats.mana;
-        physicalAtk = baseStats.physicalAtk;
-        physicalDef = baseStats.physicalDef;
-        magicalAtk = baseStats.magicalAtk;
-        magicalDef = baseStats.magicalDef;
+        physicAtk = baseStats.physicalAtk;
+        physicDef = baseStats.physicalDef;
+        magicAtk = baseStats.magicalAtk;
+        magicDef = baseStats.magicalDef;
     }
 
     #region Actions
 
     public void Attack(Entity target) {
         block = false;
-        target.TakeDamage(physicalAtk, 0);
+        target.TakeDamage(physicAtk, 0);
     }
 
     public void Defense() {
@@ -83,7 +92,7 @@ public class Entity : MonoBehaviour
 
     public void Skills(/*Skill skill,*/ Entity target) {
         block = false;
-        target.TakeDamage(0, magicalAtk);
+        target.TakeDamage(0, magicAtk);
     }
 
     #endregion
@@ -94,8 +103,17 @@ public class Entity : MonoBehaviour
         if (block) {
             return;
         }
-        int damages = physicDamages - physicalDef + magicDamages - magicalDef;
+        int damages = physicDamages - physicDef + magicDamages - magicDef;
         Health -= damages > 0 ? damages : 0;
+    }
+
+    void LevelUp(int newLevel) {
+        int diff = newLevel - level;
+        physicAtk += baseStats.physicalAtkGain * diff;
+        physicDef += baseStats.physicalDefGain * diff;
+        magicAtk += baseStats.magicalAtkGain * diff;
+        magicDef += baseStats.magicalDefGain * diff;
+        level = newLevel;
     }
 
     #endregion
