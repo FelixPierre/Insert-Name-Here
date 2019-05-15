@@ -10,6 +10,8 @@ public class CombatManager : MonoBehaviour
     public GameObject playerPrefab;
     public GameObject enemyPrefab;
 
+    public Cursor cursor;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -42,6 +44,7 @@ public class CombatManager : MonoBehaviour
             Vector2 position = new Vector2(4, (teamSize - 1) / 2f - i * playerSpacing);
             GameObject o = Instantiate(playerPrefab, players.transform);
             o.transform.localPosition = position;
+            cursor.Add(o.GetComponent<Entity>());
         }
     }
 }

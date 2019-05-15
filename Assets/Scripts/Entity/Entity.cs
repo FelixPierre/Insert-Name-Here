@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Entity : MonoBehaviour
-{
+public class Entity : MonoBehaviour {
     #region Members
 
     public EntityStats baseStats;
@@ -22,6 +21,9 @@ public class Entity : MonoBehaviour
     int magicDef;
 
     bool block;
+
+    Vector3 selectionOffset = new Vector3(-0.5f, 0, 0);
+    bool selected = false;
 
     #endregion
 
@@ -84,6 +86,15 @@ public class Entity : MonoBehaviour
         }
     }
 
+    public Vector3 Position {
+        get {
+            if (selected) {
+                return transform.position - selectionOffset;
+            }
+            return transform.position;
+        }
+    }
+
     #endregion
 
     private void Start() {
@@ -111,6 +122,20 @@ public class Entity : MonoBehaviour
     public void Skills(/*Skill skill,*/ Entity target) {
         block = false;
         target.TakeDamage(0, magicAtk);
+    }
+
+    #endregion
+
+    #region Public Methods
+
+    public void Select() {
+        selected = true;
+        transform.position += selectionOffset;
+    }
+
+    public void Deselect() {
+        selected = false;
+        transform.position -= selectionOffset;
     }
 
     #endregion
