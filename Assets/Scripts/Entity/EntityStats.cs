@@ -7,6 +7,7 @@ public class EntityStats : ScriptableObject
 {
     public new string name;
     public string description;
+    public Sprite artwork;
 
     public int health;
     public int mana;
